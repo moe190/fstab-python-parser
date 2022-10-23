@@ -17,4 +17,4 @@ Execution
 
 2). Run fstab_parser.py script with python3.
 
-3) Out put will be on /etc/fstab
+3). Out put will be on /etc/fstab
