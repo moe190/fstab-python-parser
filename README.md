@@ -18,3 +18,8 @@ Execution
 2). Run fstab_parser.py script with python3.
 
 3). Out put will be on /etc/fstab
+
+
+Note:
+Script will ignore any other items but mount,type,device,NFS server IP,options,export
+for example root-reserve: 10% 
